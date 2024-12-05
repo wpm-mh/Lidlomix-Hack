@@ -56,3 +56,17 @@ Poradnik modyfikacji urządzenia SilverCrest Monsieur Cuisine Connect Trend (Lid
 12. Kiedy launcher będzie zainstalowany, wykonaj tę komendę, aby go włączyć:\
 ``adb shell at start -a android.intent.action.MAIN -c android.intent.category.HOME com.lineageport.trebuchet``
 13. Gratulacje, twój Lidlomix jest wolny :D
+
+## Opcjonalne tweaki 
+
+* Można zainstalować aplikacje Google korzystając z [OpenGApps](https://opengapps.org/) natomiast ja tego nie polecam. Sprzęt jest już na tyle stary, że po wgraniu GAppsów staje się bardzo powolny. 
+* Warto doinstalować aplikację [Button Mapper](https://www.apkmirror.com/apk/flar2/button-mapper-remap-your-keys/button-mapper-remap-your-keys-3-35-release/) i zmapować przycisk pokrętła jako powrót do ekranu głównego, gdyż nie zawsze da się wywołać przyciski.
+
+## Ciekawostki
+
+* Urządzenie to ma Bluetooth, więc nic nie staje na przeszkodzie aby korzystać na nim z zewnętrznych głośników czy kontrolerów
+* Aplikacja MC2, czyli domyślny interfejs urządzenia służący do gotowania działa w tle, co oznacza, że można przykładowo odpalić sobie Spotify czy YouTube w momencie gotowania
+* Końcówka sznurówki to aglet 
+
+## Film o modyfikowaniu Lidlomixa
+TBD
