@@ -1,8 +1,9 @@
 > [!WARNING]
-> PL: Ten poradnik jest jedynie bazowany na repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack)
-
-> [!WARNING]
+> PL: Ten poradnik jest jedynie bazowany na repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack)\
 > EN: This tutorial is based on original repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack)
+
+
+> 
 
 # Android na Monsieur Cuisine Connect
 Poradnik modyfikacji urządzenia SilverCrest Monsieur Cuisine Connect Trend (Lidlomix)
