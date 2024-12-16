@@ -1,6 +1,6 @@
 > [!WARNING]
 > PL: Ten poradnik jest jedynie bazowany na repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack). W moim repo znajduje się przeprotowane przeze mnie TWRP\
-> EN: This tutorial is based on original repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack). In my repo you can find TWRP reprotated by me
+> EN: This tutorial is based on original repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack). In my repo you can find TWRP ported by me
 
 
 # Android na Monsieur Cuisine Connect
@@ -69,4 +69,4 @@ Poradnik modyfikacji urządzenia SilverCrest Monsieur Cuisine Connect Trend (Lid
 * Końcówka sznurówki to aglet 
 
 ## Film o modyfikowaniu Lidlomixa
-TBD
+[![Film na YouTube](https://img.youtube.com/vi/OsJuSz2_-0Y/0.jpg)](https://www.youtube.com/watch?v=OsJuSz2_-0Y)
