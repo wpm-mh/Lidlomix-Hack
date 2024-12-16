@@ -1,5 +1,5 @@
 > [!WARNING]
-> PL: Ten poradnik jest jedynie bazowany na repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack). W moim repo znajduje się przeprotowane przeze mnie TWRP\
+> PL: Ten poradnik jest jedynie bazowany na repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack). W moim repo znajduje się przeportowane przeze mnie TWRP\
 > EN: This tutorial is based on original repo [Monsieur-Cuisine-Connect-Hack](https://github.com/EliasKotlyar/Monsieur-Cuisine-Connect-Hack). In my repo you can find TWRP ported by me
 
 
@@ -48,7 +48,7 @@ Poradnik modyfikacji urządzenia SilverCrest Monsieur Cuisine Connect Trend (Lid
 ``echo "persist.sys.usb.config = mtp, adb" >> /system/build.prop``
 * Włącz przyciski ekranowe\
 ``echo "qemu.hw.mainkeys = 0" >> /system/build.prop``
-9. Wgraj oryginalny **boot.img**, podobie jak w punkcie 6.
+9. Wgraj oryginalny **boot.img**, podobnie jak w punkcie 6.
 10. Uruchom ponownie urządzenie 
 11. Zainstaluj launcher przez ADB. Można go pobrać z [tego linku](https://www.apkmirror.com/apk/cyanogenmod/trebuchet-2/trebuchet-2-8-1-0-16-release/trebuchet-8-1-0-16-android-apk-download/).
 * Przy pomocy ADB wykonaj komendy:\
